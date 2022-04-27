@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47gvq7pz1945r9lfcywevr3atbjjfknkb7bsksbv8j&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/22633042/165442918-dc2da70e-8198-458c-94d2-9e953df861d3.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Hi there 👋 <br> <br> I'm Adarsh, a self motivated tech enthusiast, India. 🚀</div>
