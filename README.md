@@ -39,21 +39,27 @@ Here are some ideas to get you started:
   📫 How to reach me: <a href="mailto: areadarsh@outlook.com">areadarsh@outlook.com</a>
 </p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+</div>
+
+### Skill set:
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/22633042/165439520-8c5be5e9-be77-466f-a6e6-16ef330a9650.svg" alt="c++" height="50" />  
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/22633042/165439608-52e99b28-aa1f-4585-b10c-dc453ac7675d.svg" alt="C" height="50" />  
+
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/22633042/165439672-e11eb27f-4dcc-40a9-86c4-3579eb84cafe.svg" alt="Git" height="50" />  
+
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/22633042/165439762-c5ad4c85-7c89-40ad-84ef-e7a0016fca8f.svg" alt="HTML 5" height="50" />  
+
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/22633042/165439885-5edda90c-a311-402f-88cb-c79475bd4ef3.png" alt="Woddpress" height="50" /> 
+
+ 
 </div>
 
 
-### <div align="center">Connect with me  </div>
+
+### Connect with me:  
+<br>
 
 <div align="center">
 
@@ -73,20 +79,24 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/areadarsh/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=LeetCode style="margin-bottom: 5px;" />
 </a>
+
+</div>
  
 <br>
-<br>
+
 
 
 
 
 <!--Github Stats-->
-## Github Stats  
+
+###Github Stats: 
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=realadarsh&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br/> 
 </div>  
 
-</div>
+
 
  
 
