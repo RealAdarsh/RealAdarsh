@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <br>
   📚 I’m currently learning DSA.
   <br>
-  📫 How to reach me: <a href="areadarsh@outlook.com">areadarsh@outlook.com</a>
+  📫 How to reach me: <a href="mailto: areadarsh@outlook.com">areadarsh@outlook.com</a>
 </p>
 
 ## My Skill Set  
