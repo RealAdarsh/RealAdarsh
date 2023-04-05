@@ -19,22 +19,19 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/22633042/165442918-dc2da70e-8198-458c-94d2-9e953df861d3.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Hi there 👋 <br> <br> I'm Adarsh, a self motivated tech enthusiast, India. 🚀</div>
+### <div align="center">Hi there 👋 <br> <br> I'm Adarsh, coding my way to the silver screen 📽. Let's code together and eat pizza🍕 together! 🤝
+ 🚀</div>
 
  
 
  <div align="center">
 
   <br>
-  🔭 I'm currently working as a Scholar Trainee in Wipro Ltd.
+  🔭 I'm currently working as a SDE @Qube Cinema ex-Wipro Ltd..
   <br>
-  🔬 I'm currently studying for a master's degree in BITS Pilani. (Work Integrated Learning Program)
-  <br>
-  🎓 I graduated from Magadh University- Bachelors of Computer Application Department. 
+  🔬 I'm currently studying for a master's degree in Woolf University.
   <br>
   💻 I love writing code and learn about it.
-  <br>
-  📚 I’m currently learning DSA.
   <br>
   📫 How to reach me: <a href="mailto: areadarsh@outlook.com">areadarsh@outlook.com</a>
 </p>
